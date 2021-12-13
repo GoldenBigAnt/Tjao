@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="806759fa-fbd5-4af2-a64c-f7bb6140f306" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../assets/icon/chat_letter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icon/chat_note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icon/circle_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icon/inbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icon/profile_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icon/tjao_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icon/user_group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image/noInternet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/image/onBoarding4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/club_main_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/notification_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/splash_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/timeline_comment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/timeline_like_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/timeline_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/timeline_tag_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/chat_notification_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B5_Payment/Payment.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/Screen/B5_Payment/existing_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/controller/chat_notification_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/controller/general_notification_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/controller/user_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/helper/payment_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/chat_user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/club.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/club_review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/friend.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/live_club_friend.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/notification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/pin_information.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/timeline.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/timeline_comment.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/timeline_like.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/timeline_tag.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/user_photo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/user_review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/model/user_setting.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tjao/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tjao/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Home/EventDetail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B1_Event/event_detail_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Home/EventGuests.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B1_Event/EventGuests.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Home/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B1_Event/event_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Home1/AddReview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/add_review_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Home1/ClubProfile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B1_Home/club_profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Home1/Home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B1_Search/SearchClub.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B1_Search/SearchClub.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/B3_Camera.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/B3_Camera.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/B3_Navigation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/B3_Map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/LocationService.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/LocationService.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B3_Navigation/UserLocation.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_About_Apps.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_About_Apps.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Add_Event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Add_Event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Call_Center.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Call_Center.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Edit_Event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Edit_Event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Manage_Events.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Manage_Events.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_My_Friends.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_My_Friends.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Search_User.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_Search_User.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_User_Profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/B4_User_Profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/Message_Board.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/chat_board_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/Message_Summary.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/chat_summary_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/Privacy_Settings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/Privacy_Settings.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/updateProfile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/update_profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B4_Profile/viewImage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B4_Profile/view_image.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/B5_Payment/Subscription.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/B5_Payment/Subscription.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Bottom_Nav_Bar/bottomNavBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Bottom_Nav_Bar/bottomNavBar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Bottom_Nav_Bar/custom_nav_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Bottom_Nav_Bar/custom_nav_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Login/ChoseLoginOrSignup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Login/chose_login_singup.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Login/OnBoarding.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Login/onboarding_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Login/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Login/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Login/otp_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Login/otp_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Screen/Login/signUp.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Screen/Login/signup_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helper/app_config.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helper/app_config.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helper/helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helper/helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_29]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\My File\Task\4.9 Daniel (Denmark)\tjaoappKey.jks" />
+    <option name="KEY_ALIAS" value="tjaoapp" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vxAE0QpxbrFbM8p62ReikI25Du" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="android.app" />
+    <property name="ExportApk.ApkPath" value="D:\Work\Flutter\tjao_new\android\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="android.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="806759fa-fbd5-4af2-a64c-f7bb6140f306" name="Default Changelist" comment="" />
+      <created>1627493250155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627493250155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="280" key="FileChooserDialogImpl" timestamp="1627493442765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="562" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627493442765" />
+  </component>
+</project>

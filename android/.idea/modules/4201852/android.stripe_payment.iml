@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":stripe_payment" external.linked.project.path="C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="de.jonasbark.stripepayment" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":stripe_payment" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/main/res;file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/debug/res;file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/androidTest/res;file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/stripe_payment/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f7af3be4cccbe199b08ad9a29143b6a/jetified-stripe-android-10.4.6/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.70/95aee922bc2a0fff3b7bfa1b6503ff0afe38264a/kotlin-stdlib-jdk7-1.3.70.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/8da8c3fc67992ca994b6699217392c5e/jetified-flutter_embedding_debug-1.0.0-2f0af3715217a0c2ada72c717d4ed9178d68f6ed.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.3.50/bec16087637a7cafe54894e73d38037977cb30d2/kotlin-android-extensions-runtime-1.3.50.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.70/e5d97e25bb5b30dcfc022ec1c8f3959a875257fb/kotlin-stdlib-1.3.70.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.70/3fa8dd6c896d635e78201e5e811545f3846dec04/kotlin-stdlib-common-1.3.70.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/3d485ab07cfd1ba47970af656b035934/play-services-wallet-18.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/a872910133648b39e27acae1bf432d2b/material-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/ed406e38b885cdc41232f4eb7dce2c5d/appcompat-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/2437d88c08527007b3453021156c912c/play-services-identity-17.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/c66d1b6bf5b20264cde75ffbb6fc4883/play-services-maps-17.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/6799921fc02541c55c02fe7bba31d316/play-services-base-17.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/145e0197850474d49dc30756a5a5ee0a/play-services-tasks-17.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/e34828c3fea559f5b91d4981a68fa50e/jetified-play-services-basement-17.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/0b6aac714eec8242faaa8cee57310635/fragment-1.1.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/0ec6439f1b9e8789c996f756eaaa23a9/recyclerview-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/4add5f098f460bf4b5c775c33ed6fe24/vectordrawable-animated-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/309e35aab7bf189537a8636f5e9911b7/legacy-support-core-ui-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/9c6aea41a53154d52ff773f151597a44/viewpager-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/269651328d810c8e847fa7a38a5de530/legacy-support-core-utils-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/2940b114c6ec492a75f619f7ed809279/loader-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/8a003cd2252ebe037c4036646413049d/activity-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/aabe6b956edc6555c099286c58b7d713/transition-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/c4e7c32d0c1dc172085c8248b87e149f/vectordrawable-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/501e4bda248f566d6a28079751e7fe50/coordinatorlayout-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/c35ccc8b06629331a7b839abc0847cee/drawerlayout-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/7fd745f41ba853b88d6d34a8a92f3a62/slidingpanelayout-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/481a8ba4a3db7fbf6eda2cef8c939942/customview-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/7df362393b8f77a73bf2e306e2e1e32d/swiperefreshlayout-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/b32ad1eccda1eca3b66b7699b848e47f/asynclayoutinflater-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/92ce91cebd618327df1759d14491ed81/core-1.1.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/068be14bf4b54214dfb83a16f1f80356/lifecycle-runtime-2.2.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/62b2fcfb50fc9977a9a40b3237f7f04c/savedstate-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/4900ab8b30bed1351f04225052f356c3/lifecycle-livedata-2.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/e16477424c719c7e7c13f5505ccb1657/lifecycle-livedata-core-2.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/28c021c1e0def1bdcb79786c5499a5da/core-runtime-2.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/72a39483850ec3f0ba2449b91996e956/versionedparcelable-1.1.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/648b8b6b5bb39e74f0ca8187b1e00b8e/lifecycle-viewmodel-2.1.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/c51748451e4a339990180fe8d00d0bc6/cardview-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/995059cae16ff217d384d6aa21d4da71/cursoradapter-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/39db58f3f32bfa33932c7595ff08fe49/interpolator-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/dcd864d5473a9989203658c4026d100a/documentfile-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/346394f55ecdd3b9037ae59ce1801a91/localbroadcastmanager-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/4e589052f51358dcfa487a83c7275256/print-1.0.0/jars/classes.jar;C:/Users/SnowStar/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar;C:/Users/SnowStar/.gradle/caches/transforms-2/files-2.1/a1f049f3279d4b36c166347473e4d2fd/jetified-stripe-3ds2-android-1.2.2/jars/classes.jar;D:/Work/Flutter/tjao_new/build/stripe_payment/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar;C:/Users/SnowStar/AppData/Local/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="stripe_payment_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/stripe_payment/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/stripe_payment/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android">
+      <sourceFolder url="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/src/main/res" type="java-resource" />
+      <excludeFolder url="file://C:/flutter1226/.pub-cache/hosted/pub.dartlang.org/stripe_payment-1.0.11/android/.gradle" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/aidl_source_output_dir/debug/compileDebugAidl/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/stripe_payment/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.70" level="project" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-2f0af3715217a0c2ada72c717d4ed9178d68f6ed" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.70" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.70" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.stripe:stripe-android:10.4.6@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-wallet:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-identity:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-maps:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.stripe:stripe-3ds2-android:1.2.2@aar" level="project" />
+  </component>
+</module>
